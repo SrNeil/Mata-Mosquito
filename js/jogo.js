@@ -102,3 +102,4 @@ function ladoAleatorio() {
       return "ladoB";
   }
 }
+
